@@ -24,7 +24,7 @@ Developing DIO's First Class Number 3 App, a number generator, here is the resul
 
 # React Native Course - Class Nº 3.2 - Curriculum
 
-Building cross-platform mobile apps with React Native, here is the result:
+Building cross-platform mobile apps with React Native. My curriculum, here is the result:
 
 ![image](https://user-images.githubusercontent.com/86370873/170530899-2137e3da-19ef-4ee5-90e3-95d89f9e9956.png)
 
